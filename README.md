@@ -2,7 +2,7 @@
 
 integrantes 
 
-## Dulce Cruz Granados 
+## Cruz Granados Dulce Marina 
 
 
 ## Fuentes Perez Bryan
