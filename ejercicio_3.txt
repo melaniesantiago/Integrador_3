@@ -1,0 +1,2 @@
+#ejercicio 3
+Dada una circunferencia con centro en el punto C con cordenadas (x1,y1) y radio, evaluar si un punto T con cordenadas (x2,y2) estra dentro del area de la circunferencia
